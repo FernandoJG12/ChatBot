@@ -1,0 +1,12 @@
+Que preguntas le hiciste a la IA?
+-Comence preguntando si era posible crear un chatbox que fuese experto en un tema usando C++. Claramente me dijo que era posible.
+-Pregunte como podria crear una function que buscase dentro del archivo el conocimiento para poder contestar.
+-Pregunte como podia solucionar algunos errores como cuando la compilacion fallaba
+
+Que fragmentos de codigo o ideas generaste con ayuda de la IA
+-Genere algunas funciones que me ayudasen con la busqueda del conocimiento usando palabras clave o por similaridad pues no sabia como podia hacerlo en primer lugar.
+-Cuando tenia una parte del codigo preguntaba a deepseek que tal y si habia alguna optimizacion o consejo preguntaba como se hacia y me generaba un codigo mas sencello.
+-Genere una parte del codigo para que la busquedad fuese indiferente en caso de usar mayusculas o minusculas para evitar errores en el caso de que el usuario notara que al preguntar algo en minuscula funcionaba pero cuando lo hacia con mayusculas simplemente no.
+
+Que aprendiste al usarla?
+-En general aprendi mucho en cuanto al manejo de archivos y como poder leerlos en fragmentos usando un separador para en este caso poder hacer que un chatbot me de una respuesta en caso de encontrar una palabra similar. Seguro sera bastante util para futuros proyectos.
